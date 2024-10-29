@@ -1,0 +1,44 @@
+/*****************************************************************************/
+
+.bamboo_enquiry {
+
+	input,
+	textarea {
+		border: none;
+		margin: 1em 0 1.5em 0;
+		width: 96%;
+		padding: 2%;
+		background: #e5e5e5;
+		color: #3c3d49;
+		font-family: inherit;
+		font-size: 1em;
+	}
+
+	input[type="submit"],
+	button[type="submit"] {
+		width: auto;
+		padding: 0.7em 2em;
+		background: #66cc00;
+		color: #ffffff;
+	}
+
+	textarea {
+		font-size: 1em;
+	}
+
+	.error {
+		border: 1px solid #ff4444;
+	}
+
+}
+
+/*****************************************************************************/
+
+.bamboo_enquiry_message {
+
+	text-align: center;
+	font-size: 2em;
+
+}
+
+/*****************************************************************************/
